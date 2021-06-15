@@ -1,5 +1,5 @@
-# Exploring Predictions Correlation for Unsupervised Domain Adaptation (TCM)
-Code release for Exploring Predictions Correlation for Unsupervised Domain Adaptation (TCM) 
+# Exploring Predictions Correlation for Unsupervised Domain Adaptation (EPC)
+Code release for Exploring Predictions Correlation for Unsupervised Domain Adaptation (EPC) 
 ## Dataset
 #### Office-31
 #### ImageCLEF-DA
