@@ -16,8 +16,8 @@ Code release for Exploring Predictions Correlation for Unsupervised Domain Adapt
 
 - download datasets
 - extract feature representations
-- Replace paths in TCM_util.py-read_data with those in your own system.
-- train `python TCM_train.py`
+- Replace paths in EPC_util.py-read_data with those in your own system.
+- train `python TPC_train.py`
 
 ## Citation
 please cite:
