@@ -3,7 +3,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from sklearn.preprocessing import StandardScaler
-from TCM_losses import BCELossForMultiClassification, CrossEntropyLoss
+from EPC_losses import BCELossForMultiClassification, CrossEntropyLoss
 import numpy as np
 import h5py
 
