@@ -13,9 +13,9 @@ from torch.autograd.variable import *
 from collections import Counter
 import matplotlib.pyplot as plt
 
-from TCM_util import read_data, GaussianNoise, get_mini_batches
-from TCM_Model import *
-from TCM_losses import *
+from EPC_util import read_data, GaussianNoise, get_mini_batches
+from EPC_Model import *
+from EPC_losses import *
 import warnings
 import torch.nn.functional as F
 
